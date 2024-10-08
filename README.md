@@ -49,8 +49,8 @@ To analyze transactional trends and customer profiles to provide actionable insi
 - `BankingDataset2.xlsx`: File containing the raw banking dataset 2 used in the analysis.
 - `Banking_PowerBI_Documentation.pdf`: Detailed description of all the analysis , DAX calculation used in the Datasets.
 - `Data_Info_pbi.pdf`: Datasets feilds and their description.
-- `Analysis.pbix`: Power BI file containing all charts, analyses, and calculations used for data exploration and insights.
-- `Dashboard.pbix`: Power BI file containing the final interactive dashboard with key visualizations and analyses used in the dashboard.
+- `Banking Project Power BI-Part 1.pbix`: Power BI file containing all charts, analyses, and calculations used for data exploration and insights.
+- `Banking_Dashboard.pbix`: Power BI file containing the final interactive dashboard with key visualizations and analyses used in the dashboard.
 ## Future Work
 - Extend analysis to incorporate customer feedback and satisfaction metrics.
 - Integrate more detailed financial metrics, such as interest earned on loans or penalties on overdue payments.
